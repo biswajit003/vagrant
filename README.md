@@ -1,4 +1,4 @@
-The vagrant file is used configure virtual machine.
+The vagrant file is used to configure virtual machine.
 
 Following are the specifications :
 
